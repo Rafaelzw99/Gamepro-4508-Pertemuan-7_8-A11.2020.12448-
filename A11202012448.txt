@@ -1,0 +1,15 @@
+Praktikum 7_8
+
+Nama: Rafael Wijaya
+NIM: A11.2020.12448
+Kelompok: A11.4508
+
+Soal:
+1. Apakah bisa state karakter player dari Idle langsung ke Run?
+2. Apakah bisa state karakter player dari Jump ke Crunch?
+3. Apakah bisa state Crounch dan CrounchingWalk memiliki kesamaan transisi?
+
+Jawaban:
+1. Ya
+2. Tidak
+3. Ya
